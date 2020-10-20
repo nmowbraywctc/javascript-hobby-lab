@@ -15,9 +15,12 @@ a:active {
     color: #fb0e02;
 }
 
+.header {
+    font-style: italic;
+}
 
 body > header, body > footer {
-    background-color: #555555;
+    background-color: #342341;
     height: 50px;
     padding: 20px;
     color: white;
